@@ -9,7 +9,7 @@ from PIL import Image
 
 
 # parametrization
-root = 'C:/Data/SVN_Checkouts/Paper'
+root = 'C:/Data/SOURCE_DIRECTORY'
 destFolder = root + '_reduced'
 texFileName = 'bare_jrnl.tex'
 depFileName = root + '/' + texFileName[:-4] + '.dep'
