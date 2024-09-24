@@ -40,6 +40,14 @@ for files in types:
 ```
 
 
+# PDF compression
+When you are only intrested in PDF file compression, have a look at "pdf_compressor_ghostscript.py". You'll have to install some packages like [pdf2image](https://pypi.org/project/pdf2image/). 
+And adapt the in and out files:<br>
+```
+f = "C:\Data\Paper_in.pdf"
+f_out_1 = "C:\Data\Paper_in.pdf"
+```
+
 
 
 
